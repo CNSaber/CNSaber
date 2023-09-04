@@ -31,7 +31,7 @@ https://github.com/BEPb/BEPb
 | **Packages**                                    | ![Scikit-learn Badge](https://img.shields.io/badge/-Scikit--learn-FEFEFA?style=flat&logo=scikit-learn&logoColor=6097FF) ![Scipy Badge](https://img.shields.io/badge/-Scipy-FEFEFA?style=flat&logo=scipy&logoColor=6097FF) ![Numpy Badge](https://img.shields.io/badge/-Numpy-FEFEFA?style=flat&logo=numpy&logoColor=6097FF) ![Pandas Badge](https://img.shields.io/badge/-Pands-FEFEFA?style=flat&logo=pandas&logoColor=6097FF) ![PyG Badge](https://img.shields.io/badge/-PyG-FEFEFA?style=flat&logo=pyg&logoColor=3C2179) ![Jupyter Badge](https://img.shields.io/badge/-Jupyter-FEFEFA?style=flat&logo=jupyter&logoColor=#F37626) |
 
 <!-- profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
 <!-- visitor-counting -->
 <a href="https://info.flagcounter.com/IFYX"><img src="https://s11.flagcounter.com/count2/IFYX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
