@@ -60,6 +60,7 @@ Reference: https://github.com/Raymo111
 ## 👤 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🎓 I'm currently a graduate student in the computer science department of [Rensselaer Polytechnic Institute](https://www.rpi.edu)
+- 🔭 My research interests broadly align with AutoML and multimodal deep learning. My recent work can be found [here](https://zhenhan-huang.github.io/)
 
 
 <!--
