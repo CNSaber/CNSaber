@@ -21,6 +21,7 @@ Reference: https://github.com/Raymo111
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 📨 📢 🎉 🎊
 - ⚡ Fun fact: ...
 -->
 <!--
@@ -57,11 +58,11 @@ Reference: https://github.com/Raymo111
 <!-- hyperlink -->
 <p><a href="https://www.linkedin.com/in/zhenhan-huang-mlns"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://www.twitter.com/zhenhanhuangrpi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
 
-## 👤 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 👤 About Me
 
 - 🎓 I'm currently a graduate student in the computer science department of [Rensselaer Polytechnic Institute](https://www.rpi.edu)
-- 🔭 My research interests broadly align with AutoML and multimodal deep learning. My recent work can be found [here](https://zhenhan-huang.github.io/)
-
+- 🔭 My research interests broadly align with meta learning and multimodal deep learning. My recent work can be found [here](https://zhenhan-huang.github.io/)
+- 📫 You can reach me by [email](mailto:huangzhenhan@outlook.com)
 
 <!--
 Reference: https://github.com/BEPb/BEPb
